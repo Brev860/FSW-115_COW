@@ -1,0 +1,66 @@
+{
+    "appetizers": [{
+            "name": "fried pickles",
+            "ingredients": ["pickles", "flour", "egg wash"],
+            "description": "Crispy, Tangy and delicious"
+        },
+        {
+            "name": "onion rings",
+            "ingredients": ["onions", "batter"],
+            "description": "Savory, crispy and satisfying"
+        },
+        {
+            "name": "buffalo wings",
+            "ingredients": ["chicken wings", "spices", "hot sauce", "butter"],
+            "description": "Spicy, juicy, flavorful and filling"
+        }
+    ],
+    "hot sandwiches": [{
+            "name": "Itailian combo",
+            "ingredients": ["salami", "pepperoni", "capricola", "provolone", "oil & vinegar"],
+            "description": "Warm, filling and delicious"
+        },
+        {
+            "name": "cheesesteak",
+            "ingredients": ["shaved steak", "provolone", "mushrooms", "onions"],
+            "description": "Best thing on the menu. Cheesy and filling"
+        }
+    ],
+    "cold sandwiches": [
+         {
+             "name": "Turkey Club",
+             "ingredients":["deli slice turkey", "american cheese", "bacon"],
+             "description": "Towering pile of turkey and bacon. Best club in CT."
+         },
+         {
+             "name": "Tuna salad",
+             "ingredients": ["tuna", "mayo", "pickles", "tomato", "american cheese"],
+             "description": "Load with tuna and a taste explosion"
+         }
+    ],
+    "desserts": [
+          {
+              "name": "icecream",
+              "ingredients":["cream", "chocolate", "vanilla bean", "sugar", "strawberry puree"],
+              "description":"creamy, smooth, and sweat"
+          },
+          {
+              "name": "chocolate cake",
+              "ingredients":["bakers chocolate","flour", "milk", "eggs", "baking powder"],
+              "description:": "Moist, fluffy and chocolatey"
+          }
+    ],
+    "drinks": [
+          {
+              "name":"cola",
+              "ingredients":["cola syrup", "selters"],
+              "description":"crisp and sweet"
+          },
+          {
+             "name":"iced tea",
+             "ingredients":["water", "lemon","sugar", "tea bags"],
+             "description":"Refreshing and cold"
+          }
+    ]
+
+}
