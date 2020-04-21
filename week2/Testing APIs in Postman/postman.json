@@ -1,0 +1,41 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+            "correct_answer": "42",
+            "incorrect_answers": [
+                "Loving everyone around you",
+                "Chocolate",
+                "Death"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Minecraft&quot; was released from beta in 2011 during a convention held in which city?",
+            "correct_answer": "Las Vegas",
+            "incorrect_answers": [
+                "Paris",
+                "Bellevue",
+                "London"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the only Generation III Pokemon whose name begins with the letter I?",
+            "correct_answer": "Illumise",
+            "incorrect_answers": [
+                "Infernape",
+                "Ivysaur",
+                "Igglybuff"
+            ]
+        }
+    ]
+}

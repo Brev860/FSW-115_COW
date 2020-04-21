@@ -1,0 +1,36 @@
+#box1{
+    background-color: grey;
+    border: black solid;
+    margin: 4px;
+    padding: 3px;
+}
+#box2{
+    background-color: grey;
+    border: black solid;
+    margin: 4px;
+    padding: 3px;
+}
+#box3{
+    background-color: grey;
+    border: black solid;
+    margin: 4px;
+    padding: 3px;
+}
+#box4{
+    background-color: grey;
+    border: black solid;
+    margin: 4px;
+    padding: 3px;
+}
+
+li{
+    background-color: white;
+    padding: 3px;
+    list-style-type:upper-alpha;
+}
+#titlediv{
+     display: flex;
+     background-color: grey;
+     border: black solid;
+     justify-content: center;
+}
