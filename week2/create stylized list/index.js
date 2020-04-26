@@ -50,6 +50,7 @@ var question4={
 
  var triviaQ1 = document.getElementById("header1");
  triviaQ1.textContent = question1.question;
+ 
 
 var postTrivia1 = document.getElementById("answer1");
 for (var i = 0; i < question1.incorrect_answers.length; i++) {
@@ -107,3 +108,5 @@ var postTriviaA4 = document.getElementById("answer4");
 var rightAnswer4 = document.createElement("li");
 rightAnswer4.textContent = question4.correct_answer;
 postTrivia4.append(rightAnswer4);
+//style
+
