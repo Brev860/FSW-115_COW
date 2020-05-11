@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+   <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
+    <link rel="stylesheet" href="todo.css">
+   </head>
+       <body>
+           <h1 id="header">TODO POST GET PUT DELETE Website</h1>
+        <div id="wrapper"> 
+          
+       
+          <div id="POST">
+            <input id="enter_title" type="text" name="POST_Title" placeholder="Todo_Title" required>
+            <input id="enter_descr" type="text" name="POST_Desc" placeholder="Todo_Desc">
+            <input id="enter_img" type="text" name="POST_url" placeholder="Todo_url">
+            <input id="enter_p" type="text" name="POST_price" placeholder="Todo price">
+            
+            <button id="post_button">POST</button>
+          </div>
+
+        <div id="PUT">
+            <input id="put_id" type="put_id" name="PUT_id" placeholder="Todo_id" required>
+            <input id="put_title" type="put_title" name="PUT_Title" placeholder="Todo_Title">
+            <input id="put_descr" type="put_descr" name="PUT_Desc" placeholder="Todo_Desc">
+            <input id="put_img" type="put_img" name="PUT_url" placeholder="Todo_url">
+            <input id="put_p" type="put_p" name="PUT_price" placeholder="Todo price">
+        <div id="PUT">
+            Completed: <input id="complete" type="checkbox" name="completed" value="true">
+            Not Completed: <input id="complete" type="checkbox" name="completed" value="false">
+      </div>
+            <button id="put_button">PUT</button>
+            <button id="delete_button">DELETE</button>
+        </div>
+    
+
+       <div>
+         <h2>List of Todos:</h2>
+       </div>
+
+           <script src="todo.js"></script>
+        </div>  
+       </body>
+
+</html>

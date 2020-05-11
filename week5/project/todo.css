@@ -1,0 +1,24 @@
+html, body{
+
+    background-color: tomato;
+    margin: auto;
+    width: 1000px;
+   
+}
+ div{
+     margin: auto;
+     padding: 20px;
+     text-align: center ;
+ }
+
+ #header{
+     margin: auto;
+     text-align: center;
+ }
+
+ .container{
+    margin: auto;
+    padding: 20px;
+    text-align: center ;
+    color: white;
+ }
