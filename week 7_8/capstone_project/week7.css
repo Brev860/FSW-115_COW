@@ -1,0 +1,102 @@
+html, body{
+
+    background-color: cornsilk;
+    margin: auto;
+    width: 1000px;
+   
+}
+#header{
+
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    top: 20px;
+    background-color: tomato;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+#heading{
+    
+        position: relative;
+        margin: 20px;
+        padding: 40px;
+        text-align: center;
+        top: 20px;
+        background-color: tomato;
+        border: 2px solid black;
+        border-radius: 5px;
+        
+    }
+    #input{
+        position: relative;
+       margin: auto;
+       padding: 20px;
+       text-align: left ;
+       top: 100px;
+       background-color: grey;
+       width: 700px;
+       border: 2px solid;
+       border-radius: 5px;
+       box-shadow: 5px 5px 8px black, 10px 10px 8px white 15px 15px 8x red,
+       
+    }
+    #get{
+        position: relative;
+       margin: auto;
+       padding: 20px;
+       text-align: left ;
+       top: 100px;
+       background-color: grey;
+       width: 700px;
+       height: 100%;
+       border: 2px solid;
+       border-radius: 5px;
+       box-shadow: 5px 5px 8px black, 10px 10px 8px white 15px 15px 8x red,
+       
+    }
+
+    #output{
+       position: relative;
+       margin: auto;
+       padding: 20px;
+       text-align: center ;
+       top: 150px;
+       background-color: grey;
+       width: 600px;
+       border: 2px solid;
+       border-radius: 5px;
+       box-shadow: 5px 5px 8px black, 10px 10px 8px white 15px 15px 8x red,
+       
+    }
+    button{
+        transition: ease-in;
+    }
+    #post:hover{
+        
+        opacity: 0.5;
+        background-color: tomato;
+        color: white;
+        width: 80px;
+        height: 30px;
+    }
+    #put:hover{
+        
+        opacity: 0.5;
+        background-color: tomato;
+        color: white;
+        width: 80px;
+        height: 30px;
+    }
+
+    #box1{
+        border: black solid;
+        background-color: white;
+      
+    }
+    #box2{
+        border: black solid;
+        background-color: white;
+        ;
+    }
